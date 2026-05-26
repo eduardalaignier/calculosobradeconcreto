@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Recebimento de Concreto",
+  "description": "Dashboard para controle de recebimento de concreto em obra, validando volume da nota fiscal contra a pesagem física.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
